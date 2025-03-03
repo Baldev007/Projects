@@ -1,0 +1,6 @@
+[submodule "Projects/PhonePe"]
+	path = Projects/PhonePe
+	url = https://github.com/Baldev007/PhonePe.git
+[submodule "Projects/Comcast"]
+	path = Projects/Comcast
+	url = https://github.com/Baldev007/Comcast
